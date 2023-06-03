@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **cryptosresearch/cryptosresearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[logo.png]
+
+![Descrição da imagem](logo.png)
