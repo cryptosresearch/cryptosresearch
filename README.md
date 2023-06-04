@@ -1,5 +1,6 @@
 ![Descrição da imagem](logo.png)
 
+## Descrição
 
 Bem-vindo ao repositório da CryptosResearch! Somos uma empresa especializada em coletar, analisar e fornecer dados sobre o mercado de criptoativos. Nossa missão é ajudar os investidores e entusiastas a tomar decisões informadas, fornecendo insights valiosos e análises detalhadas sobre as principais criptomoedas e tokens.
 
