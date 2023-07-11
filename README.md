@@ -1,17 +1,9 @@
 ![Descrição da imagem](logo.png)
 
 ## Descrição
-
-Bem-vindo ao repositório da CryptosResearch!
-
 Este repositório é dedicado ao compartilhamento de recursos, scripts e projetos relacionados à nossa pesquisa e análise de dados. Aqui, você encontrará:
 
-- Conjuntos de dados relevantes sobre criptomoedas.
-- Scripts e ferramentas para coleta e análise de dados.
-- Notebooks e estudos de caso com análises detalhadas.
-- Recursos educacionais sobre criptoativos e tecnologia blockchain.
-
-Acreditamos na transparência e no poder dos dados para impulsionar a inovação no mercado de criptoativos. Sinta-se à vontade para explorar nossos recursos e contribuir com suas próprias ideias e projetos. Juntos, podemos impulsionar o conhecimento e o avanço nesse emocionante campo.
+- Scripts e ferramentas para coleta e análise de dados sobre criptoativos.
 
 ## Como Contribuir
 
@@ -29,5 +21,4 @@ Agradecemos antecipadamente por suas contribuições! Vamos juntos explorar o me
 
 ## Contato
 
-- Website: [www.cryptosresearch.com](https://www.cryptosresearch.com)
 - Email: cryptosresearch@gmail.com
